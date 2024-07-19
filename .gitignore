@@ -35,3 +35,4 @@ bld/
 # DotNet specific folders
 .nuget/
 .NETCoreApp/
+.vs/
